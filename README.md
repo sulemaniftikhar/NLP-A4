@@ -32,8 +32,8 @@ User Query → Embedding (MiniLM) → Vector Search (ChromaDB)
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/DiReCT-RAG.git
-cd DiReCT-RAG
+git clone https://github.com/sulemaniftikhar/NLP-A4.git
+cd NLP-A4
 
 # Install dependencies
 pip install -r requirements.txt
