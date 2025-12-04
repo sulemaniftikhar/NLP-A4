@@ -128,4 +128,4 @@ DiReCT-RAG/
 └── README.md
 ```
 ## Medium Blog
-- Blog: [Medium Article](https://medium.com/@maad78150/rag-for-diagnostic-reasoning-for-clinical-notes-67ab0ded38ad)
+- Blog: [Medium Article](https://ifsuleman.medium.com/building-direct-a-rag-system-for-clinical-diagnosis-9d23a244ec51)
